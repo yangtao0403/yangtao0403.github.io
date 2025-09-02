@@ -20,7 +20,7 @@ layout: homepage
 
 - 09/2010 – 08/2013: OCE Postdoctoral researcher, CSIRO, Australia
 - 09/2013 – 08/2015: Research Fellow, University of New South Wales, Australia
-- 09/2015 – 12/2018: Lecturer (Assistant Professor, Permanent Position), ARC DECRA Fellow， University of Technology Sydney, Australia
+- 09/2015 – 12/2018: Lecturer (Permanent Position), ARC DECRA Fellow， University of Technology Sydney, Australia
 - 01/2019 – Present: Associate Professor, Beihang University, China
 
 
