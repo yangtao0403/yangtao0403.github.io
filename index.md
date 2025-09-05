@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## News
-- 30/8/2025 Our team are looking for gifted and highly self-motivated research students (2 vacancies) to joint our research group. Interested candidates please visit and apply through https://www.ee.buaa.edu.cn/info/1034/18733.htm.
+- 30/8/2025 We are looking for gifted and highly self-motivated research students (2 vacancies) to joint our research group. Interested candidates please visit and apply through https://www.ee.buaa.edu.cn/info/1034/18733.htm.
 
 - 22/8/2025 A journal paper by my PhD student Xu Li and myself entitled “Asynchronous repetition slotted ALOHA for massive random access”  is accepted by IEEE Trans. Wireless Comm..
 
