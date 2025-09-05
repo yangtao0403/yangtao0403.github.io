@@ -13,7 +13,7 @@ layout: homepage
 
 ## About Me
 
-I received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003. After that I spent 14 years studying and working overseas. I received Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia, in 2010. I was an OCE Postdoctoral Fellow within Commonwealth Scientific and Industrial Research Organization (CSIRO, inventer institute of WiFi), Australia. I was a Lecturer/Senior Lecturer (permanent position)， PhD supervisor，within the University of Technology Sydney, Australia. I returned to Beihang University, China, in 2019. To date, I have authored over 100 research articles in IEEE journals and conferences, most of them are published in IEEE transactions on Wireless Comm., Inf. Theory, Comm., Signal Processing, JSAC, at etc. I was holding an Australian Research Council Discovery Early Career Research Award Fellowship (Success rate 11.7%). My research follows the main thread of network information theory, while aiming at addressing the key issues of 5G/6G PHY layer. My expertise include multiuser communication, source-channel-network coding (polar，LDPC and lattice codes), MIMO, cell-free MIMO, iterative signal processing and decoding, with targeted applications in 5G/6G and satellite internet systems. I am a (not very well) known expert in lattice and lattice codes, Physical-layer network coding and multiple access technqiues. I have been continuously serving as TPC member of the IEEE ICC, Globecom, WCNC, ICCC and etc., reviewer of ARC discovery projects and National natural science foundation of China. I was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
+I received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003. After that I spent 14 years studying and working overseas. I received Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia. I was a Lecturer/Senior Lecturer (permanent position), PhD supervisor，within the University of Technology Sydney, Australia. I returned to Beihang University, China, in 2019. To date, I have authored over 100 research articles in IEEE journals and conferences, most of them are published in IEEE transactions on Wireless Communications, Information Theory, Signal Processing, JSAC and etc. I was holding an Australian Research Council Discovery Early Career Research Award Fellowship (Success rate 11.7%). My research follows the main thread of network information theory, while aiming at addressing the key issues of 5G/6G PHY layer. My expertise include multiuser communication, source-channel-network coding (polar，LDPC and lattice codes), MIMO, cell-free MIMO, iterative signal processing and decoding, with targeted applications in 5G/6G and satellite internet systems. I am a (not very well) known expert in lattice and lattice codes, Physical-layer network coding and multiple access technqiues. I have been continuously serving as TPC member of the IEEE ICC, Globecom, WCNC, ICCC and etc., reviewer of ARC discovery projects and National natural science foundation of China and IEEE journals. I was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
 
 杨涛（博士），北京航空航天大学电子信息工程学院副教授,北航“卓越百人”， 北航未来通信与网络推进组成员, 澳大利亚研究理事会青年探索奖获得者。海外求学与工作 14 年，2019 年回国之前曾任澳大利亚悉尼科技大学（University of Technology Sydney）讲师/高级讲师（永久职位）、博士生导师、新南威尔士大学助理研究员、联邦科学与工业研究院（CSIRO）博士后。长期担任国家自然科学基金、澳大利亚研究理事会基金、IEEE 信息论、无线通信、通信旗舰期刊评审，IEEE 国际通信大会等通信领域顶级国际会议技术委员会成员。研究方向为6G移动通信和卫星互联网，具体研究领域包括网络信息论、编码、波形调制、多址、MIMO、迭代信号处理等。首次提出格码多址（lattice code multiple access）、线性污纸编码（linear dirty paper coding）、线性物理层网络编码等技术。在国内外重要学术期刊和国际会议上发表论文 100 余篇，其中 IEEE 期刊论文 50 余篇。近三年获批国家自然科学基金面上、国家重点研发计划、北京市自然科学基金等多个项目（总经费超过 350 万元），申请中国发明专利 12 项，美国发明专利 1 项，其中 6 项专利已授权。
 
@@ -27,7 +27,7 @@ I received the B.Sc. degree in Electronics and Information Engineering from Beih
 
 ## Academic Research Opportunities
 
-- 09/2010 – 08/2013: OCE Postdoctoral researcher, CSIRO, Australia (Collaborative Supervisor: Prof. Iain Collings)
+- 09/2010 – 08/2013: OCE Postdoctoral researcher, CSIRO (inventor institue of WiFi), Australia (Collaborative Supervisor: Prof. Iain Collings)
 - 09/2013 – 08/2015: Research Fellow, University of New South Wales, Australia
 - 09/2015 – 12/2018: Lecturer/Senior Lecturer (Permanent Position), PhD Supervisor, ARC DECRA Fellow, University of Technology Sydney, Australia
 - 01/2019 – Present: Associate Professor, Beihang University, China
@@ -35,11 +35,11 @@ I received the B.Sc. degree in Electronics and Information Engineering from Beih
 
 ## Research Grants
 
-- 《基于格码的多址与巨址通信》，国家自然科学基金面上项目（National natural science foundation），项目号62371020, 2024-2027, 总经费49万元（主持，项目负责人）。
-- 《面向6G分布式MIMO的物理层网络编码与信号处理研究》，北京市自然科学基金项目（Beijing natural science foundation），项目号L232044，2024-2026，总经费29.3万元（主持，项目负责人）。
-- 《多星协同的大容量快速接入与切换技术》，国家重点研发计划 （National R&D Program of China），项目号 2022YFB2902604，2022.11-2025.11，总经费77.6万元（主持，子课题负责人）
-- 《灵活高效波形与多址技术》，国家重点研发计划 （National R&D Program of China），项目号 2020YFB1907102,2020.12-2023.12，总经费566万元（第一技术骨干）
-- 《面向6G 星地融合的GEO 卫星通信系统与设备研发》深圳市科技计划（Shenzhen Science and Technology Program）项目号KJZD20230928112759002，2024.01-2026.12，总经费42万（主持，课题负责人）
+- 《基于格码的多址xxx通信》，国家自然科学基金面上项目（National natural science foundation），项目号6237xxxx, 2024-2027, 总经费49万元（主持，项目负责人）。
+- 《面向6G分布式MIMO的物理层网络编码xxx研究》，北京市自然科学基金项目（Beijing natural science foundation），项目号L232xxx，2024-2026，总经费29.3万元（主持，项目负责人）。
+- 《多星协同的大容量快速接入与切换技术》，国家重点研发计划 （National R&D Program of China），项目号 2022YFB290xxxx，2022.11-2025.11，总经费77.6万元（主持，子课题负责人）
+- 《灵活高效波形与多址技术》，国家重点研发计划 （National R&D Program of China），项目号 2020YFB190xxxx,2020.12-2023.12，总经费566万元（第一技术骨干）
+- 《面向6G 星地融合的GEO 卫星通信系统与设备研发》深圳市科技计划（Shenzhen Science and Technology Program）项目号KJZD20230928112xxx002，2024.01-2026.12，总经费42万（主持，课题负责人）
 - 《新型*宽带通信用户终端信*处理算法及无线通信协议的原理研究方案》，横向项目，2022-2024，总经费20万 （主持，项目负责人）
 - 《面向*互联网的编码与多址技术》，国防特色科研项目,2022-2023，总经费16.5万 （主持，项目负责人）
 - Chief Investigator, Beihang University Zhuoyue Program. CNY 500,000 for 2019-2021.
