@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-**TAO YANG** received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003, and Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia, in 2010. He was an OCE Postdoctoral Fellow within Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia. He was a Lecturer (permanent position) within the School of Computing and Communications, University of Technology Sydney. He is currently with the Beihang University. He has authored over 100 research articles in IEEE journals and conferences. He was holding an Australian Research Council Discovery Early Career Research Award Fellowship. His research expertise and interests include multiple access techniques, network coding, MIMO, error-control coding, iterative signal processing, with applications in 5G/6G and satellite internet systems. He has been continuously serving as a TPC member of the IEEE International Conference on Communications, reviewer of ARC discovery projects and National natural science foundation of China. He was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
+**TAO YANG** received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003, and Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia, in 2010. He was an OCE Postdoctoral Fellow within Commonwealth Scientific and Industrial Research Organization (CSIRO, inventer institute of WiFi), Australia. He was a Lecturer (permanent position) within the School of Computing and Communications, University of Technology Sydney. He is currently with the Beihang University. He has authored over 100 research articles in IEEE journals and conferences. He was holding an Australian Research Council Discovery Early Career Research Award Fellowship. His research expertise and interests include multiuser communication, source-channel-network coding, network information theory, MIMO, iterative signal processing, with applications in 5G/6G and satellite internet systems. He has been continuously serving as a TPC member of the IEEE International Conference on Communications, reviewer of ARC discovery projects and National natural science foundation of China. He was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
 
-杨涛（博士），北京航空航天大学电子信息工程学院副教授,北航“卓越百人”， 北航未来通信与网络推进组成员, 澳大利亚研究理事会青年探索奖获得者。海外求学与工作 14 年，2019 年回国之前曾任澳大利亚悉尼科技大学（University of Technology Sydney）讲师/高级讲师（永久职位）、博士生导师、新南威尔士大学助理研究员、联邦科学与工业研究院（CSIRO）博士后。长期担任国家自然科学基金、澳大利亚研究理事会基金、IEEE 信息论、无线通信、通信旗舰期刊评审，IEEE 国际通信大会等通信领域顶级国际会议技术委员会成员。研究方向为6G移动通信和卫星互联网，具体研究领域包括网络信息论、编码、波形调制、多址、MIMO、迭代信号处理等。首次提出格码多址（lattice code multiple access）、线性污纸编码（linear dirty paper coding）、线性物理层网络编码等技术。在国内外重要学术期刊和国际会议上发表论文 100 余篇，其中 IEEE 期刊论文 50 余篇。近三年获批国家自然科学基金面上、国家重点研发计划、北京市自然科学基金等多个项目（总经费超过 300 万元），申请中国发明专利 12 项，美国发明专利 1 项，其中 6 项专利已授权。
+杨涛（博士），北京航空航天大学电子信息工程学院副教授,北航“卓越百人”， 北航未来通信与网络推进组成员, 澳大利亚研究理事会青年探索奖获得者。海外求学与工作 14 年，2019 年回国之前曾任澳大利亚悉尼科技大学（University of Technology Sydney）讲师/高级讲师（永久职位）、博士生导师、新南威尔士大学助理研究员、联邦科学与工业研究院（CSIRO）博士后。长期担任国家自然科学基金、澳大利亚研究理事会基金、IEEE 信息论、无线通信、通信旗舰期刊评审，IEEE 国际通信大会等通信领域顶级国际会议技术委员会成员。研究方向为6G移动通信和卫星互联网，具体研究领域包括网络信息论、编码、波形调制、多址、MIMO、迭代信号处理等。首次提出格码多址（lattice code multiple access）、线性污纸编码（linear dirty paper coding）、线性物理层网络编码等技术。在国内外重要学术期刊和国际会议上发表论文 100 余篇，其中 IEEE 期刊论文 50 余篇。近三年获批国家自然科学基金面上、国家重点研发计划、北京市自然科学基金等多个项目（总经费超过 350 万元），申请中国发明专利 12 项，美国发明专利 1 项，其中 6 项专利已授权。
 
 
 ## Education Background
@@ -36,12 +36,11 @@ layout: homepage
 - Chief Investigator, Beihang University Zhuoyue Program. CNY 500,000 for 2019-2021.
 - Chief Investigator, ARC discovery early career researcher award (DECRA) 2015. AUD 377,500 （CNY 2.1 million）for 2015-2018. Project No. DE150100636 – “Efficient coding for distributed-input distributed-output wireless systems ". (Independent Application. Success Rate 11.7%).
 - Chief Investigator, Faculty Research Grant 2015, UNSW. AUD 30,000 for 2015-2016.
-- Participated in a research proposal for a General Research Grant of Hong Kong, RGC Ref No.c01757: “Design of Reliable Physical-Layer Network Coding for MIMO Relay Networks", by Prof. Xiaojun Yuan et. al.. (HKD 900K granted for 2012-2014.).
 - Participated in Australian Space Research Program (ASRP) from Oct. 2010 to June 2012.
 
 
 ## Academic Awards
-
+- Beihang University "Zhuoyue" Program
 - UNSW Faculty of Engineering early career research program (ECRG) award, 2014.
 - CSIRO ICT centre publication award, 2012.
 - Australian postgraduate award (APA), 2007-2010.
