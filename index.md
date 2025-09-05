@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## News
-- 30/8/2025 We are looking for gifted and highly self-motivated research students (2 vacancies) to joint our research group. Interested candidates please visit and apply through https://www.ee.buaa.edu.cn/info/1034/18733.htm.
+- 30/8/2025 Our team are looking for gifted and highly self-motivated research students (2 vacancies) to joint our research group. Interested candidates please visit and apply through https://www.ee.buaa.edu.cn/info/1034/18733.htm.
 
 - 22/8/2025 A journal paper by my PhD student Xu Li and myself entitled “Asynchronous repetition slotted ALOHA for massive random access”  is accepted by IEEE Trans. Wireless Comm..
 
@@ -12,8 +12,6 @@ layout: homepage
 - 28/6/2025 Best Thesis Award of Beihang Unviersity by my master student Xinzhe Qiu. Congratulations! 
 
 ## About Me
-
-Official webpage: https://shi.buaa.edu.cn/yangtom0403/zh_CN/index.htm
 
 I received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003. After that I spent 14 years studying and working overseas. I received Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia, in 2010. I was an OCE Postdoctoral Fellow within Commonwealth Scientific and Industrial Research Organization (CSIRO, inventer institute of WiFi), Australia. I was a Lecturer/Senior Lecturer (permanent position)， PhD supervisor，within the University of Technology Sydney, Australia. I returned to Beihang University, China, in 2019. To date, I have authored over 100 research articles in IEEE journals and conferences, most of them are published in IEEE transactions on Wireless Comm., Inf. Theory, Comm., Signal Processing, JSAC, at etc. I was holding an Australian Research Council Discovery Early Career Research Award Fellowship (Success rate 11.7%). My research follows the main thread of network information theory, while aiming at addressing the key issues of 5G/6G PHY layer. My expertise include multiuser communication, source-channel-network coding (polar，LDPC and lattice codes), MIMO, cell-free MIMO, iterative signal processing and decoding, with targeted applications in 5G/6G and satellite internet systems. I am a (not very well) known expert in lattice and lattice codes, Physical-layer network coding and multiple access technqiues. I have been continuously serving as TPC member of the IEEE ICC, Globecom, WCNC, ICCC and etc., reviewer of ARC discovery projects and National natural science foundation of China. I was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
 
