@@ -20,16 +20,16 @@ I received the B.Sc. degree in Electronics and Information Engineering from Beih
 
 ## Education Background
 
-- 09/1999 – 07/2003: Bachelor, School of electronic and information engineering, Beihang University
-- 09/2004 – 12/2006: Master by Research, School of Electrical engineering and Telecommunication, University of New South Wales, Australia.
-- 01/2007 – 01/2011: PhD, School of Electrical engineering and Telecommunication, University of New South Wales, Australia.
+- 09/1999 – 07/2003: Bachelor, School of Electronics and Information Engineering, Beihang University
+- 09/2004 – 12/2006: Master by Research, School of Electrical Engineering and Telecommunication, University of New South Wales, Australia.
+- 01/2007 – 01/2011: PhD, School of Electrical Engineering and Telecommunication, University of New South Wales, Australia. (Supervisor: Prof. Jinhong Yuan. Thesis title: "Superposition Coding for Wireless Communications")
 
 
 ## Academic Research Opportunities
 
-- 09/2010 – 08/2013: OCE Postdoctoral researcher, CSIRO, Australia
+- 09/2010 – 08/2013: OCE Postdoctoral researcher, CSIRO, Australia (Collaborative Supervisor: Prof. Iain Collings)
 - 09/2013 – 08/2015: Research Fellow, University of New South Wales, Australia
-- 09/2015 – 12/2018: Lecturer (Permanent Position), ARC DECRA Fellow， University of Technology Sydney, Australia
+- 09/2015 – 12/2018: Lecturer/Senior Lecturer (Permanent Position), PhD Supervisor, ARC DECRA Fellow, University of Technology Sydney, Australia
 - 01/2019 – Present: Associate Professor, Beihang University, China
 
 
@@ -49,14 +49,14 @@ I received the B.Sc. degree in Electronics and Information Engineering from Beih
 
 
 ## Academic Awards
-- ARC Discovery early career researcher award
+- ARC Discovery Early Career Researcher Award
 - Beihang University "Zhuoyue" Program
-- UNSW Faculty of Engineering early career research program (ECRG) award, 2014.
-- CSIRO ICT centre publication award, 2012.
-- Australian postgraduate award (APA), 2007-2010.
-- Supplementary Engineering award (SEA), 2007-2010.
-- NICTA research project Award (NRPA), 2005-2010.
-- NICTA international postgraduate Award (NIPA), 2005-2007.
+- UNSW Faculty of Engineering Early Career Research Program (ECRG) award, 2014.
+- CSIRO ICT Centre Publication Award, 2012.
+- Australian Postgraduate Award (APA), 2007-2010.
+- Supplementary Engineering Award (SEA), 2007-2010.
+- NICTA Research Project Award (NRPA), 2005-2010.
+- NICTA International Postgraduate Award (NIPA), 2005-2007.
 
 
 ## Selected Journal Publications
