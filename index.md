@@ -2,6 +2,13 @@
 layout: homepage
 ---
 
+## News
+- Aug 22nd, 2025. A journal paper by my PhD student Xu Li and myself entitled “Asynchronous repetition slotted ALOHA for massive random access”  is accepted by IEEE Trans. Wireless Comm..
+
+- July 25th, 2025. A journal paper by me and my Master student Xinzhe Qiu, entitled “A Distributed Integer-Forcing Approach to Downlink Cell-Free MIMO”  is accepted by IEEE Trans. Wireless Comm..
+
+- June 28, 2025. Best thesis award of Beihang Unviersity by my master student Xinzhe Qiu. Congratulations! 
+
 ## About Me
 
 **TAO YANG** received the B.Sc. degree in Electronics and Information Engineering from Beihang University, China, in 2003, and Ph.D. degree in Telecommunications Engineering from the University of New South Wales (UNSW), Sydney, NSW, Australia, in 2010. He was an OCE Postdoctoral Fellow within Commonwealth Scientific and Industrial Research Organization (CSIRO, inventer institute of WiFi), Australia. He was a Lecturer (permanent position) within the School of Computing and Communications, University of Technology Sydney. He is currently with the Beihang University. He has authored over 100 research articles in IEEE journals and conferences. He was holding an Australian Research Council Discovery Early Career Research Award Fellowship. His research expertise and interests include multiuser communication, source-channel-network coding, network information theory, MIMO, iterative signal processing, with applications in 5G/6G and satellite internet systems. He has been continuously serving as a TPC member of the IEEE International Conference on Communications, reviewer of ARC discovery projects and National natural science foundation of China. He was a recipient of the Australian Postgraduate Award, the NICTA Research Project Award. 
@@ -110,7 +117,6 @@ layout: homepage
 ## Courses Taught
 
 - 《Information theory and coding techniques》
-- 《Matrix Computation》
 - 《Advanced wireless communication technologies》
 - 《Modern image communication》
 - 《Digital modulation and coding》
